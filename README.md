@@ -9,16 +9,16 @@ decisions regarding which loan applications to approve or reject in future.
 
 
 ## Table of Contents
-* [Dataset_Used](#Dataset Used)
-* [Technologies_Used](#Technologies Used)
+* [Dataset](#Dataset)
+* [Technologies](#Technologies)
 * [Steps](#Steps)
 * [Acknowledgements](#Acknowledgements)
 * [Contributors](#Contributors)
 
-## Dataset_Used
+## Dataset
 - 'loan.csv' dataset is used,which is the dataset of past loan applications and their status.
 
-## Technologies_Used
+## Technologies
 - Python-3.7.3
 - Pandas-0.24.2
 - Numpy-1.16.4
