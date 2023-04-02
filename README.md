@@ -1,52 +1,53 @@
-# Project Name
-> Outline a brief description of your project.
+# LENDING CLUB CASE STUDY
+
+## Business Objective:
+The company is the largest online loan marketplace, facilitating loans.Lending loans to ‘risky’ applicants is the largest source of financial loss. 
+Borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
+Identification of such applicants whose loans have a higher risk of getting 'charged-off' and what factors drive to 'charge-off' is the aim of this case study. 
+We have to perform Exploratory Data Analysis(EDA) on the provided data and identify such potential drivers for 'charge-off'.The company will use this to take
+decisions regarding which loan applications to approve or reject in future.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Dataset Used](#Dataset Used)
+* [Technologies Used](#Technologies Used)
+* [Steps](#Steps)
+* [Acknowledgements](#Acknowledgements)
+* [Contributors](#Contributors)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
+## Dataset Used
+- 'loan.csv' dataset is used,which is the dataset of past loan applications and their status.
+- 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+*Python-3.7.3
+*Pandas-0.24.2
+*Numpy-1.16.4
+*Matplotlib-3.1.0
+*Seaborn-0.9.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+## Steps
+- Step1-Data Understanding
+		1a.Handling Null values
+		1b.Unique value check
+		1c.Relevancy check 
+    
+- Step2-Data Cleaning and Manipulation
+		2a:Handling missing values
+		2b:Data type check and conversions to suitable format
+		2c:Outlier Detection and handling
+    
+- Step3-Data Analysis
+		3a:Univariate & Segmented Univariate Analysis
+		3b:Derived Variables
+		3c:Bivariate Analysis
+
+- Step4-Recommendations
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Learnt a lot about EDA from AnalyticsVidhya
+AnalyticsVidhya- https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## Contributors
+Created by [@rakeshrau] - Rakesh Raushan
