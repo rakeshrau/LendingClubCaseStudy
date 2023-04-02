@@ -1,4 +1,4 @@
-LENDING CLUB CASE STUDY
+#LENDING CLUB CASE STUDY
 
 Business Objective:
 The company is the largest online loan marketplace, facilitating loans.Lending loans to ‘risky’ applicants is the largest source of financial loss. 
