@@ -9,21 +9,21 @@ decisions regarding which loan applications to approve or reject in future.
 
 
 ## Table of Contents
-* [Dataset Used](#Dataset Used)
-* [Technologies Used](#Technologies Used)
+* [Dataset_Used](#Dataset Used)
+* [Technologies_Used](#Technologies Used)
 * [Steps](#Steps)
 * [Acknowledgements](#Acknowledgements)
 * [Contributors](#Contributors)
 
-## Dataset Used
+## Dataset_Used
 - 'loan.csv' dataset is used,which is the dataset of past loan applications and their status.
-- 
-## Technologies Used
-*Python-3.7.3
-*Pandas-0.24.2
-*Numpy-1.16.4
-*Matplotlib-3.1.0
-*Seaborn-0.9.0
+
+## Technologies_Used
+- Python-3.7.3
+- Pandas-0.24.2
+- Numpy-1.16.4
+- Matplotlib-3.1.0
+- Seaborn-0.9.0
 
 ## Steps
 - Step1-Data Understanding
@@ -44,7 +44,6 @@ decisions regarding which loan applications to approve or reject in future.
 - Step4-Recommendations
 
 ## Acknowledgements
-Give credit here.
 - Learnt a lot about EDA from AnalyticsVidhya
 AnalyticsVidhya- https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/
 
